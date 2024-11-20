@@ -110,3 +110,14 @@ body {
     align-items: center;
     gap: 5px;
 }
+
+.explore{ 
+    background: linear-gradient(90deg, #9d4edd, #5a189a);
+    color: #ffffff;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
