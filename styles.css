@@ -103,12 +103,7 @@ body {
     border: 1px solid #ffffff;
     color: #ffffff;
     padding: 5px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 0.9rem;
-    display: flex;
-    align-items: center;
-    gap: 5px;
+  
 }
 
 
