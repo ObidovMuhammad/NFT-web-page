@@ -140,3 +140,24 @@ body {
 
 }
 
+.diamond1{ 
+position: absolute;
+width: 15px;
+height: 15px;
+background-color:#8F20A1;;
+transform: rotate(45deg);
+margin-top: 30px;
+
+}
+
+.hoh{
+    position: absolute;
+    margin-top: 40px;
+}
+
+.loh{
+    position: absolute;
+    margin-left: 25px;
+}
+
+
