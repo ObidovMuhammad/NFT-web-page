@@ -108,7 +108,11 @@ body {
     font-size: 30px;
 }
 
-
+.hero-buttons{
+    display: flex;
+    gap: 30px;
+    margin-top: 15px;
+}
 
 
 
