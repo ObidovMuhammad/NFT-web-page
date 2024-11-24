@@ -97,6 +97,16 @@ body {
     opacity: 0.9;
 }
 
+.hero{ 
+    position: absolute ;
+    left: 180px;
+    bottom: 245px;
+    line-height: 2;
+}
+
+.bigger-heading{ 
+    font-size: 30px;
+}
 
 
 
