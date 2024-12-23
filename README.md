@@ -1,1 +1,1 @@
-# NFT-web-page
+# NFT Platform to trade NFT 
